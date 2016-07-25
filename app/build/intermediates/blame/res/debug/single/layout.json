@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_view.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\setting_view.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_layout.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\viewpager_layout.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_view.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\top_view.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_view.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\contacts_view.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btten_layout.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\btten_layout.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_view.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\message_view.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_view.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\bottom_view.xml"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_view.xml",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\layout\\news_view.xml"
+    }
+]

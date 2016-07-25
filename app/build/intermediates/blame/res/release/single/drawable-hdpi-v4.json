@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\message_selected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\message_selected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\contacts_selected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\contacts_selected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_bg.9.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.9.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\news_unselected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\news_unselected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\news_selected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\news_selected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\message_unselected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\message_unselected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_goback_unselected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\top_goback_unselected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_gonext_selected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\top_gonext_selected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_gonext_unselected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\top_gonext_unselected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\setting_unselected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\setting_unselected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\contacts_unselected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\contacts_unselected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\setting_selected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\setting_selected.png"
+    },
+    {
+        "merged": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_goback_selected.png",
+        "source": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\drawable-hdpi\\top_goback_selected.png"
+    }
+]

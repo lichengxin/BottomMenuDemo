@@ -1,0 +1,340 @@
+[
+    {
+        "outputFile": "E:\\1\\BottomMenuDemo\\app\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 39,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 54,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 54,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 56,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 56,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 38,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 38,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 39,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 57,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 55,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 48,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 48,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 45,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 45,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 47,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 47,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 47,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 47,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 51,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1095,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endLine": 35,
+                    "endColumn": 9,
+                    "endOffset": 1586
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 770,
+                        "endLine": 29,
+                        "endColumn": 9,
+                        "endOffset": 1096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1818
+                },
+                "from": {
+                    "file": "E:\\1\\BottomMenuDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1516
+                    }
+                }
+            }
+        ]
+    }
+]
